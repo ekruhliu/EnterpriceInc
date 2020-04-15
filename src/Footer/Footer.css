@@ -1,0 +1,11 @@
+.Footer{
+    background-color: black;
+    display: flex;
+    align-self: flex-end;
+}
+
+.Copyright{
+    display: flex;
+    color: white;
+    margin-right: 60px;
+}

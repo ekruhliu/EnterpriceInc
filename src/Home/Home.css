@@ -1,0 +1,28 @@
+.HomePageTop{
+    background-color: rgba(26,40,116,0.85);
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+}
+
+.HomePageTopText{
+    color: white;
+    font-family: Futura;
+    font-weight: 500;
+    margin-left: 60px;
+    flex-direction: column;
+}
+
+.HomePage{
+    background-color: rgba(48,48,48,0.7);
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+}
+
+.FirstImage{
+    width: 650px;
+    height: 325px;
+    align-self: flex-end;
+    margin-right: 60px;
+}
